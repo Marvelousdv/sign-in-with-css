@@ -1,0 +1,8 @@
+body{
+    background-color: aqua;
+}
+body .block{
+    border: 1px solid orange;
+    margin: 20px;
+    padding: 5px;
+}
